@@ -224,7 +224,7 @@ class Frame1 extends Frame
 		}
 	}
 }
-class Calculator1
+class Calculator
 {
 	public static void main( String [] args)
 	{
